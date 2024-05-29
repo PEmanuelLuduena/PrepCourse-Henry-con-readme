@@ -1,2 +1,1 @@
-# PrepCourse-Henry-con-readme
-Este es un repositorio del modulo 2 del curso de PrepCourse Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora
